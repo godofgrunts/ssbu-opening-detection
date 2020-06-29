@@ -6,6 +6,5 @@ You will need:
 * Python 3.6+
 * Opencv
 * Numpy
-* MatPlotLib
 * OBS-Studio
 * [OBS-Studio VirtualCam](https://obsproject.com/forum/resources/obs-virtualcam.949/)
